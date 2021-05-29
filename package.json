@@ -11,7 +11,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
     "typescript": "^3.7.3",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "dev": "concurrently --kill-others \"yarn run server\" \"yarn run client\"",
